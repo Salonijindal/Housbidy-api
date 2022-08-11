@@ -1,0 +1,1775 @@
+{
+  "Results": [
+    {
+      "Id": "24739204",
+      "MlsNumber": "40298723",
+      "PublicRemarks": "Opportunity knocks at Bluevale Tower! What is not to love? First-time buyers will love the price point, and the size is great for moving in your family or perhaps starting one. Downsizers will appreciate that there is still ample space to have a separate dining room and a second bedroom for guests. The large ensuite storage closet is a bonus for anyone!  This well-managed and maintained condo could be just what you have been hoping to see. No special assessments here! Reasonable Condo fees include all your utilities, workout facilities, and an outdoor tennis courtparking for you indoors and an exceptional amount of visitor parking for your friends and family.   The location of this property is ideal for walkers & cyclists with nearby trails, commuters will love the easy access to HWY 85, and when transit is needed, it is also right here. A convenient pathway takes you across the property to the Glenridge Plaza and the shops there.  Stop in to see what this great condo has to offer you this weekend from 2-4, both Saturday and Sunday afternoons. (65037927)",
+      "Building": {
+        "BathroomTotal": "2",
+        "Bedrooms": "2 + 0",
+        "SizeInterior": "960.0000",
+        "StoriesTotal": "1",
+        "Type": "Apartment",
+        "UnitTotal": "0",
+        "Ammenities": "Exercise Centre, Party Room"
+      },
+      "Individual": [
+        {
+          "IndividualID": 2048904,
+          "Name": "Linda Matthews",
+          "Organization": {
+            "OrganizationID": 283386,
+            "Name": "Davenport Realty Brokerage",
+            "Address": {
+              "AddressText": "33-620 Davenport Rd|Waterloo, Ontario N2V2C2",
+              "PermitShowAddress": true,
+              "DisseminationArea": null
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "777-5833",
+                "AreaCode": "226",
+                "PhoneTypeId": "1"
+              }
+            ],
+            "Emails": [{ "ContactId": "463978403" }],
+            "Websites": [
+              {
+                "Website": "http://Davenportbrokerage.com",
+                "WebsiteTypeId": "1"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "HasEmail": true,
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/283386/davenport-realty-brokerage-33-620-davenport-rd-waterloo-ontario-n2v2c2",
+            "PhotoLastupdate": "2022-08-04 10:47:14 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "801-9988",
+              "AreaCode": "519",
+              "PhoneTypeId": "1"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://lindamatthews.myagent.site/",
+              "WebsiteTypeId": "1"
+            },
+            {
+              "Website": "http://www.facebook.com/RealPropertyHelp/",
+              "WebsiteTypeId": "2"
+            },
+            {
+              "Website": "http://www.linkedin.com/in/linda-matthews-912484104/",
+              "WebsiteTypeId": "3"
+            },
+            {
+              "Website": "https://www.instagram.com/realpropertyhelp/",
+              "WebsiteTypeId": "5"
+            }
+          ],
+          "Emails": [{ "ContactId": "484373858" }],
+          "Photo": "https://cdn.realtor.ca/individual/TS637583106600000000/lowres/1324299.jpg",
+          "Position": "Salesperson",
+          "DesignationCodes": "SRES",
+          "PermitFreetextEmail": true,
+          "FirstName": "Linda",
+          "LastName": "Matthews",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/2048904/linda-matthews-33-620-davenport-rd-waterloo-ontario-n2v2c2",
+          "AgentPhotoLastUpdated": "2021-06-03 09:51:00",
+          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS637583106600000000/highres/1324299.jpg",
+          "RankMyAgentKey": "",
+          "RealSatisfiedKey": ""
+        }
+      ],
+      "Property": {
+        "Price": "$350,000",
+        "Type": "Single Family",
+        "Address": {
+          "AddressText": "225 HARVARD Place Unit# 910|Waterloo, Ontario N2J4H4",
+          "Longitude": "-80.50503592",
+          "Latitude": "43.48403888",
+          "PermitShowAddress": true,
+          "DisseminationArea": null
+        },
+        "Photo": [
+          {
+            "SequenceId": "1",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS637952500342030000/reb16/highres/3/40298723_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS637952500342030000/reb16/medres/3/40298723_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS637952500342030000/reb16/lowres/3/40298723_1.jpg",
+            "Description": "Bluevale Tower",
+            "LastUpdated": "2022-08-04 10:47:14 PM"
+          }
+        ],
+        "Parking": [{ "Name": "Underground" }, { "Name": "Visitor Parking" }],
+        "ParkingSpaceTotal": "1",
+        "TypeId": "300",
+        "OwnershipType": "Condominium",
+        "AmmenitiesNearBy": "Airport, Hospital, Place of Worship, Public Transit, Shopping",
+        "ConvertedPrice": "$350,000 ",
+        "OwnershipTypeGroupIds": [2],
+        "ParkingType": "Underground, Visitor Parking",
+        "PriceUnformattedValue": "350000"
+      },
+      "OpenHouse": [
+        {
+          "StartTime": "Aug 06/22 - 2:00 PM To 4:00 PM",
+          "StartDateTime": "06/08/2022 2:00:00 PM",
+          "EndDateTime": "06/08/2022 4:00:00 PM",
+          "FormattedDateTime": "Aug 06/22 - 2:00 PM To 4:00 PM",
+          "Comments": "Join me Saturday from 2 - 4 pm to view this great condo and all it has to offer you!",
+          "EventTypeID": "1"
+        },
+        {
+          "StartTime": "Aug 07/22 - 2:00 PM To 4:00 PM",
+          "StartDateTime": "07/08/2022 2:00:00 PM",
+          "EndDateTime": "07/08/2022 4:00:00 PM",
+          "FormattedDateTime": "Aug 07/22 - 2:00 PM To 4:00 PM",
+          "Comments": "Join me Sunday from 2 - 4 pm to view this great condo and all it has to offer you!",
+          "EventTypeID": "1"
+        }
+      ],
+      "Business": {},
+      "Land": {
+        "SizeTotal": "4.212 ac",
+        "SizeFrontage": "189 ft",
+        "AccessType": "Highway access"
+      },
+      "AlternateURL": {
+        "VideoLink": "https://youriguide.com/910_425_harvard_pl_waterloo_on/"
+      },
+      "PostalCode": "N2J4H4",
+      "RelativeDetailsURL": "/real-estate/24739204/225-harvard-place-unit-910-waterloo",
+      "StatusId": "1",
+      "OpenHouseInsertDateUTC": "2022-08-05 2:50:26 AM",
+      "HasOpenHouseUpdate": true,
+      "PhotoChangeDateUTC": "2022-08-05 2:47:14 AM",
+      "HasNewImageUpdate": true,
+      "Distance": "",
+      "RelativeURLEn": "/real-estate/24739204/225-harvard-place-unit-910-waterloo",
+      "RelativeURLFr": "/immobilier/24739204/225-harvard-place-unit-910-waterloo",
+      "ListingTimeZone": "Eastern Standard Time",
+      "ListingBoundary": "America/Toronto",
+      "ListingGMT": "-05:00:00",
+      "Media": [
+        {
+          "MediaCategoryId": "2",
+          "MediaCategoryURL": "https://youriguide.com/910_425_harvard_pl_waterloo_on/",
+          "Description": "VideoTourWebsite",
+          "Order": 5
+        },
+        {
+          "MediaCategoryId": "8",
+          "MediaCategoryURL": "https://youriguide.com/910_425_harvard_pl_waterloo_on//doc/floorplan_metric_en_u.pdf",
+          "Description": "FloorPlan"
+        },
+        {
+          "MediaCategoryId": "8",
+          "MediaCategoryURL": "https://youriguide.com/910_425_harvard_pl_waterloo_on//doc/floorplan_imperial_en_u.pdf",
+          "Description": "FloorPlan"
+        }
+      ],
+      "InsertedDateUTC": "637952644341930000",
+      "TimeOnRealtor": "1 hour ago"
+    },
+    {
+      "Id": "24738983",
+      "MlsNumber": "40304927",
+      "PublicRemarks": "Steps to Belmont Village! Bright and cheery condo with 2 bedrooms and 2 full baths! Unit features 9 foot ceilings throughout, granite counter tops with classic white cabinets and stainless steel appliances! Breakfast bar overhang over looks living room  w/ electric fireplace and is perfect for entertaining! Enjoy morning coffee and lovely sunsets from your private balcony.   2 full bathrooms with granite counter tops and sleek ceramic tile. This unit features convenient in suite laundry room for the added bonus.  Spacious primary bedroom with walk in closet and en suite with step in large tiled shower. One underground parking spot included.  This condo is home to young professionals and empty nesters. Theater, gym, party room, locker and covered underground parking included. Steps to Belmont Village, restaurants shops and more! (65043910)",
+      "Building": {
+        "BathroomTotal": "2",
+        "Bedrooms": "2 + 0",
+        "SizeInterior": "963.0000",
+        "StoriesTotal": "1",
+        "Type": "Apartment",
+        "Ammenities": "Exercise Centre, Guest Suite, Party Room"
+      },
+      "Individual": [
+        {
+          "IndividualID": 1600661,
+          "Name": "ALIYA MANJI",
+          "Organization": {
+            "OrganizationID": 76789,
+            "Name": "RE/MAX TWIN CITY REALTY INC.",
+            "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637952391280000000/lowres/1004357.jpg",
+            "Address": {
+              "AddressText": "83 ERB ST.W.|WATERLOO, Ontario N2L6C2",
+              "PermitShowAddress": true,
+              "DisseminationArea": null
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "885-0200",
+                "AreaCode": "519",
+                "PhoneTypeId": "1"
+              },
+              {
+                "PhoneType": "Fax",
+                "PhoneNumber": "885-4914",
+                "AreaCode": "519",
+                "PhoneTypeId": "4"
+              }
+            ],
+            "Emails": [{ "ContactId": "498157936" }],
+            "Websites": [
+              { "Website": "https://remaxtwincity.com", "WebsiteTypeId": "1" }
+            ],
+            "OrganizationType": "Firm",
+            "HasEmail": true,
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/76789/remax-twin-city-realty-inc-83-erb-stw-waterloo-ontario-n2l6c2",
+            "PhotoLastupdate": "2022-08-04 7:45:28 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "885-0200",
+              "AreaCode": "519",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "885-4914",
+              "AreaCode": "519",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [{ "ContactId": "456791572" }],
+          "Photo": "https://cdn.realtor.ca/individual/TS637396776000000000/lowres/1155649.jpg",
+          "Position": "Salesperson",
+          "PermitFreetextEmail": true,
+          "FirstName": "ALIYA",
+          "LastName": "MANJI",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/1600661/aliya-manji-83-erb-stw-waterloo-ontario-n2l6c2",
+          "AgentPhotoLastUpdated": "2020-10-30 18:00:00",
+          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS637396776000000000/highres/1155649.jpg",
+          "RankMyAgentKey": "",
+          "RealSatisfiedKey": ""
+        }
+      ],
+      "Property": {
+        "Price": "$529,900",
+        "Type": "Single Family",
+        "Address": {
+          "AddressText": "539 BELMONT Avenue W Unit# 501|Kitchener, Ontario N2M0A2",
+          "Longitude": "-80.51591226",
+          "Latitude": "43.44915834",
+          "PermitShowAddress": true,
+          "DisseminationArea": null
+        },
+        "Photo": [
+          {
+            "SequenceId": "1",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS637952391283230000/reb16/highres/7/40304927_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS637952391283230000/reb16/medres/7/40304927_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS637952391283230000/reb16/lowres/7/40304927_1.jpg",
+            "LastUpdated": "2022-08-04 7:45:28 PM"
+          }
+        ],
+        "Parking": [{ "Name": "Underground" }],
+        "ParkingSpaceTotal": "1",
+        "TypeId": "300",
+        "OwnershipType": "Condominium",
+        "AmmenitiesNearBy": "Golf Nearby, Hospital, Park, Place of Worship, Playground, Public Transit, Schools, Shopping, Ski area",
+        "ConvertedPrice": "$529,900 ",
+        "OwnershipTypeGroupIds": [2],
+        "ParkingType": "Underground",
+        "PriceUnformattedValue": "529900"
+      },
+      "Business": {},
+      "Land": {},
+      "AlternateURL": {
+        "VideoLink": "https://tours.visualadvantage.ca/043b3ff2/"
+      },
+      "PostalCode": "N2M0A2",
+      "RelativeDetailsURL": "/real-estate/24738983/539-belmont-avenue-w-unit-501-kitchener",
+      "StatusId": "1",
+      "PhotoChangeDateUTC": "2022-08-04 11:45:28 PM",
+      "HasNewImageUpdate": true,
+      "Distance": "",
+      "RelativeURLEn": "/real-estate/24738983/539-belmont-avenue-w-unit-501-kitchener",
+      "RelativeURLFr": "/immobilier/24738983/539-belmont-avenue-w-unit-501-kitchener",
+      "Media": [
+        {
+          "MediaCategoryId": "2",
+          "MediaCategoryURL": "https://tours.visualadvantage.ca/043b3ff2/",
+          "Description": "VideoTourWebsite",
+          "Order": 5
+        }
+      ],
+      "InsertedDateUTC": "637952535283130000",
+      "TimeOnRealtor": "4 hours ago"
+    },
+    {
+      "Id": "24738980",
+      "MlsNumber": "40305520",
+      "PublicRemarks": "Welcome to your new home this cute little townhouse is the ideal starter home or investment and is in move in condition. This affordable home offers 3 bedroom, 2 bathrooms, one four piece and one three piece with shower. This unit comes with one outside parking spot. (65044500)",
+      "Building": {
+        "BathroomTotal": "2",
+        "Bedrooms": "2 + 1",
+        "SizeInterior": "946.0000",
+        "StoriesTotal": "2",
+        "Type": "Apartment",
+        "UnitTotal": "0"
+      },
+      "Individual": [
+        {
+          "IndividualID": 2043964,
+          "Name": "Sahil Sharma",
+          "Organization": {
+            "OrganizationID": 269180,
+            "Name": "IPro Realty Ltd, Brokerage",
+            "Address": {
+              "AddressText": "55 Ontario St - Unit A5A|Milton, Ontario L9T2M3",
+              "PermitShowAddress": true,
+              "DisseminationArea": null
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "693-9575",
+                "AreaCode": "905",
+                "PhoneTypeId": "1"
+              },
+              {
+                "PhoneType": "Fax",
+                "PhoneNumber": "636-7530",
+                "AreaCode": "905",
+                "PhoneTypeId": "4"
+              }
+            ],
+            "Emails": [{ "ContactId": "483878198" }],
+            "Websites": [
+              { "Website": "http://www.iprorealty.com", "WebsiteTypeId": "1" }
+            ],
+            "OrganizationType": "Firm",
+            "HasEmail": true,
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/269180/ipro-realty-ltd-brokerage-55-ontario-st-unit-a5a-milton-ontario-l9t2m3",
+            "PhotoLastupdate": "2022-08-04 7:43:27 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "693-9575",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "636-7530",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Websites": [
+            { "Website": "http://rshomesellers.com", "WebsiteTypeId": "1" }
+          ],
+          "Emails": [{ "ContactId": "456760349" }],
+          "Position": "Salesperson",
+          "PermitFreetextEmail": true,
+          "FirstName": "Sahil",
+          "LastName": "Sharma",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/2043964/sahil-sharma-55-ontario-st---unit-a5a-milton-ontario-l9t2m3",
+          "RankMyAgentKey": "",
+          "RealSatisfiedKey": ""
+        }
+      ],
+      "Property": {
+        "Price": "$499,000",
+        "Type": "Single Family",
+        "Address": {
+          "AddressText": "211 VERONICA Drive Unit# B24|Kitchener, Ontario N2A2R8",
+          "Longitude": "-80.42972605",
+          "Latitude": "43.43732163",
+          "PermitShowAddress": true,
+          "DisseminationArea": null
+        },
+        "Photo": [
+          {
+            "SequenceId": "1",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS637952390070600000/reb15/highres/0/40305520_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS637952390070600000/reb15/medres/0/40305520_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS637952390070600000/reb15/lowres/0/40305520_1.jpg",
+            "LastUpdated": "2022-08-04 7:43:27 PM"
+          }
+        ],
+        "Parking": [{ "Name": "None" }],
+        "TypeId": "300",
+        "OwnershipType": "Condominium",
+        "AmmenitiesNearBy": "Public Transit",
+        "ConvertedPrice": "$499,000 ",
+        "OwnershipTypeGroupIds": [2],
+        "ParkingType": "None",
+        "PriceUnformattedValue": "499000"
+      },
+      "Business": {},
+      "Land": {},
+      "PostalCode": "N2A2R8",
+      "RelativeDetailsURL": "/real-estate/24738980/211-veronica-drive-unit-b24-kitchener",
+      "StatusId": "1",
+      "PhotoChangeDateUTC": "2022-08-04 11:43:27 PM",
+      "HasNewImageUpdate": true,
+      "Distance": "",
+      "RelativeURLEn": "/real-estate/24738980/211-veronica-drive-unit-b24-kitchener",
+      "RelativeURLFr": "/immobilier/24738980/211-veronica-drive-unit-b24-kitchener",
+      "Media": [],
+      "InsertedDateUTC": "637952534070530000",
+      "TimeOnRealtor": "4 hours ago"
+    },
+    {
+      "Id": "24738681",
+      "MlsNumber": "X5721155",
+      "PublicRemarks": "Welcome To Your New Home This Cute Little Townhouse Is The Ideal Starter Home Or Investment And Is In Move In Condition. This Affordable Home Offers 3 Bedroom, 2 Bathrooms, One Four Piece And One Three Piece With Shower. This Unit Comes With One Outside Parking Spot. (30459836)",
+      "Building": {
+        "BathroomTotal": "2",
+        "Bedrooms": "2",
+        "StoriesTotal": "2",
+        "Type": "Row / Townhouse"
+      },
+      "Individual": [
+        {
+          "IndividualID": 2081712,
+          "Name": "SHIKHA SHARMA",
+          "Organization": {
+            "OrganizationID": 270843,
+            "Name": "IPRO REALTY LTD.",
+            "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637952326680000000/lowres/1236771.jpg",
+            "Address": {
+              "AddressText": "55 ONTARIO ST UNIT A5A STE B|MILTON, Ontario L9T2M3",
+              "PermitShowAddress": true,
+              "DisseminationArea": null
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "693-9575",
+                "AreaCode": "905",
+                "PhoneTypeId": "1"
+              },
+              {
+                "PhoneType": "Fax",
+                "PhoneNumber": "636-7530",
+                "AreaCode": "905",
+                "PhoneTypeId": "4"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "Designation": "Brokerage",
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/270843/ipro-realty-ltd-55-ontario-st-unit-a5a-ste-b-milton-ontario-l9t2m3",
+            "PhotoLastupdate": "2022-08-04 5:57:48 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "693-9575",
+              "AreaCode": "905",
+              "PhoneTypeId": "1"
+            }
+          ],
+          "Emails": [{ "ContactId": "485448376" }],
+          "Position": "Salesperson",
+          "PermitFreetextEmail": true,
+          "FirstName": "SHIKHA",
+          "LastName": "SHARMA",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/2081712/shikha-sharma-55-ontario-st-unit-a5a-ste-b-milton-ontario-l9t2m3",
+          "RankMyAgentKey": "",
+          "RealSatisfiedKey": ""
+        }
+      ],
+      "Property": {
+        "Price": "$499,000",
+        "Type": "Single Family",
+        "Address": {
+          "AddressText": "211 VERONICA DR|Kitchener, Ontario N2A2R8",
+          "Longitude": "-80.428991",
+          "Latitude": "43.4373922",
+          "PermitShowAddress": true,
+          "DisseminationArea": null
+        },
+        "Photo": [
+          {
+            "SequenceId": "1",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS637952329160470000/reb82/highres/5/x5721155_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS637952329160470000/reb82/medres/5/x5721155_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS637952329160470000/reb82/lowres/5/x5721155_1.jpg",
+            "LastUpdated": "2022-08-04 6:01:56 PM"
+          }
+        ],
+        "TypeId": "300",
+        "OwnershipType": "Condominium/Strata",
+        "ConvertedPrice": "$499,000 ",
+        "OwnershipTypeGroupIds": [2],
+        "PriceUnformattedValue": "499000"
+      },
+      "Business": {},
+      "Land": {},
+      "PostalCode": "N2A2R8",
+      "RelativeDetailsURL": "/real-estate/24738681/211-veronica-dr-kitchener",
+      "StatusId": "1",
+      "PhotoChangeDateUTC": "2022-08-04 10:01:56 PM",
+      "HasNewImageUpdate": true,
+      "Distance": "",
+      "RelativeURLEn": "/real-estate/24738681/211-veronica-dr-kitchener",
+      "RelativeURLFr": "/immobilier/24738681/211-veronica-dr-kitchener",
+      "Media": [],
+      "InsertedDateUTC": "637952470682200000",
+      "TimeOnRealtor": "6 hours ago"
+    },
+    {
+      "Id": "24738161",
+      "MlsNumber": "40303358",
+      "PublicRemarks": "Whether you are first time home buyers, down sizing or investors, this property has something for everyone! Welcome to 482B Kingscourt, tucked away in a mature treed neighbourhood across the road from Kingscourt Park and just steps away from Conestoga mall this 3 bedroom semi-detached 4 level back split is sure to please. (65041519)",
+      "Building": {
+        "BathroomTotal": "2",
+        "Bedrooms": "3 + 0",
+        "SizeInterior": "1010.0000",
+        "StoriesTotal": "",
+        "Type": "House",
+        "UnitTotal": "0"
+      },
+      "Individual": [
+        {
+          "IndividualID": 1915409,
+          "Name": "MARTIN SMITH",
+          "Organization": {
+            "OrganizationID": 289634,
+            "Name": "ROYAL LEPAGE CROWN REALTY SERVICES INC. - BROKERAGE 2",
+            "Address": {
+              "AddressText": "4-471 HESPELER RD UNIT 4 (UPPER)|CAMBRIDGE, Ontario N1R6J2",
+              "PermitShowAddress": true,
+              "DisseminationArea": null
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "621-2000",
+                "AreaCode": "519",
+                "PhoneTypeId": "1"
+              },
+              {
+                "PhoneType": "Fax",
+                "PhoneNumber": "740-6402",
+                "AreaCode": "519",
+                "PhoneTypeId": "4"
+              }
+            ],
+            "Emails": [{ "ContactId": "472471167" }],
+            "OrganizationType": "Firm",
+            "HasEmail": true,
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/289634/royal-lepage-crown-realty-services-inc-brokerage-2-4-471-hespeler-rd-unit-4-upper-cambridge-ontario-n1r6j2",
+            "PhotoLastupdate": "2022-08-04 5:45:08 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "577-9909",
+              "AreaCode": "519",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "740-6402",
+              "AreaCode": "519",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Websites": [
+            { "Website": "http://www.houses2homes.ca", "WebsiteTypeId": "1" }
+          ],
+          "Emails": [{ "ContactId": "484765100" }],
+          "Photo": "https://cdn.realtor.ca/individual/TS637859151000000000/lowres/1224446.jpg",
+          "Position": "Salesperson",
+          "PermitFreetextEmail": true,
+          "FirstName": "MARTIN",
+          "LastName": "SMITH",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/1915409/martin-smith-4-471-hespeler-rd-unit-4-upper-cambridge-ontario-n1r6j2",
+          "AgentPhotoLastUpdated": "2022-04-18 21:45:00",
+          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS637859151000000000/highres/1224446.jpg",
+          "RankMyAgentKey": "",
+          "RealSatisfiedKey": ""
+        }
+      ],
+      "Property": {
+        "Price": "$549,900",
+        "Type": "Single Family",
+        "Address": {
+          "AddressText": "482 KINGSCOURT Drive|Waterloo, Ontario N2K2Y7",
+          "Longitude": "-80.52151706",
+          "Latitude": "43.49522136",
+          "PermitShowAddress": true,
+          "DisseminationArea": null
+        },
+        "Photo": [
+          {
+            "SequenceId": "1",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS637952319080170000/reb20/highres/8/40303358_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS637952319080170000/reb20/medres/8/40303358_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS637952319080170000/reb20/lowres/8/40303358_1.jpg",
+            "LastUpdated": "2022-08-04 5:45:08 PM"
+          }
+        ],
+        "TypeId": "300",
+        "OwnershipType": "Freehold",
+        "AmmenitiesNearBy": "Park, Public Transit, Shopping",
+        "ConvertedPrice": "$549,900 ",
+        "OwnershipTypeGroupIds": [1],
+        "PriceUnformattedValue": "549900"
+      },
+      "Business": {},
+      "Land": {
+        "SizeTotal": "under 1/2 acre",
+        "SizeFrontage": "30 ft",
+        "AccessType": "Highway Nearby"
+      },
+      "AlternateURL": {
+        "VideoLink": "https://youriguide.com/b_482_kingscourt_dr_waterloo_on/"
+      },
+      "PostalCode": "N2K2Y7",
+      "RelativeDetailsURL": "/real-estate/24738161/482-kingscourt-drive-waterloo",
+      "StatusId": "1",
+      "PhotoChangeDateUTC": "2022-08-04 9:45:08 PM",
+      "HasNewImageUpdate": true,
+      "Distance": "",
+      "RelativeURLEn": "/real-estate/24738161/482-kingscourt-drive-waterloo",
+      "RelativeURLFr": "/immobilier/24738161/482-kingscourt-drive-waterloo",
+      "Media": [
+        {
+          "MediaCategoryId": "2",
+          "MediaCategoryURL": "https://youriguide.com/b_482_kingscourt_dr_waterloo_on/",
+          "Description": "VideoTourWebsite",
+          "Order": 5
+        },
+        {
+          "MediaCategoryId": "8",
+          "MediaCategoryURL": "https://youriguide.com/b_482_kingscourt_dr_waterloo_on//doc/floorplan_metric_en_u.pdf",
+          "Description": "FloorPlan"
+        },
+        {
+          "MediaCategoryId": "8",
+          "MediaCategoryURL": "https://youriguide.com/b_482_kingscourt_dr_waterloo_on//doc/floorplan_imperial_en_u.pdf",
+          "Description": "FloorPlan"
+        }
+      ],
+      "InsertedDateUTC": "637952463080070000",
+      "TimeOnRealtor": "6 hours ago"
+    },
+    {
+      "Id": "24738135",
+      "MlsNumber": "X5721169",
+      "PublicRemarks": "Welcome To 379 Lee Circle! This Home Is Stunning! Everything Has Been Updated Within The Last 3.5 Years With Careful Design And High-End Finishes. Ideal Home For Larger Family With In-Law Potential!! The Main Living Space Is Entirely Carpet-Free And Open-Concept. The Kitchen Has All New Stainless Appliances, Beautiful White On White Countertops And Soft Close Cabinets, And A Large Island. On The Main Floor You Have 3 Large Bedrooms, And Two 4-Piece Bathrooms That Each Have Their Own Unique Finishes. Downstairs You Have 2 More Bedrooms, And 2 More Full Bathrooms, Another Full Kitchen, And Living Space! The Backyard Has Been Landscaped Beautifully With Flower Beds And Open Space, Giving Tons Of Room For The Whole Family To Enjoy. This Bungalow Is In The Heart Of Lincoln Village Where You'll Find The Neighbourhood Is Quiet And Family Friendly. Location Is Great, Close To Hwy 86 & University Avenue!! (30459304)",
+      "Building": {
+        "BathroomTotal": "4",
+        "Bedrooms": "3 + 2",
+        "StoriesTotal": "1",
+        "Type": "House"
+      },
+      "Individual": [
+        {
+          "IndividualID": 2141221,
+          "Name": "MIRO LUKIC",
+          "Organization": {
+            "OrganizationID": 288578,
+            "Name": "RE/MAX TWIN CITY REALTY INC.",
+            "Address": {
+              "AddressText": "901 VICTORIA STREET N UNIT  B|KITCHENER, Ontario N2B3C3",
+              "PermitShowAddress": true,
+              "DisseminationArea": null
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "579-4110",
+                "AreaCode": "519",
+                "PhoneTypeId": "1"
+              }
+            ],
+            "Emails": [{ "ContactId": "456273953" }],
+            "Websites": [
+              {
+                "Website": "HTTP://www.remaxtwincity.com",
+                "WebsiteTypeId": "1"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "Designation": "Brokerage",
+            "HasEmail": true,
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/288578/remax-twin-city-realty-inc-901-victoria-street-n-unit-b-kitchener-ontario-n2b3c3",
+            "PhotoLastupdate": "2022-08-04 5:38:36 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "579-4110",
+              "AreaCode": "519",
+              "PhoneTypeId": "1"
+            }
+          ],
+          "Emails": [{ "ContactId": "472878994" }],
+          "Position": "Salesperson",
+          "PermitFreetextEmail": true,
+          "FirstName": "MIRO",
+          "LastName": "LUKIC",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/2141221/miro-lukic-901-victoria-street-n-unit-b-kitchener-ontario-n2b3c3",
+          "RankMyAgentKey": "",
+          "RealSatisfiedKey": ""
+        }
+      ],
+      "Property": {
+        "Price": "$1,299,000",
+        "Type": "Single Family",
+        "Address": {
+          "AddressText": "379 LEE CIRC|Waterloo, Ontario N2K2L8",
+          "Longitude": "-80.5058269157813",
+          "Latitude": "43.497108409741",
+          "PermitShowAddress": true,
+          "DisseminationArea": null
+        },
+        "Photo": [
+          {
+            "SequenceId": "1",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS637952326672500000/reb86/highres/9/x5721169_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS637952326672500000/reb86/medres/9/x5721169_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS637952326672500000/reb86/lowres/9/x5721169_1.jpg",
+            "LastUpdated": "2022-08-04 5:57:47 PM"
+          }
+        ],
+        "Parking": [{ "Name": "Attached Garage" }],
+        "ParkingSpaceTotal": "6",
+        "TypeId": "300",
+        "OwnershipType": "Freehold",
+        "ConvertedPrice": "$1,299,000 ",
+        "OwnershipTypeGroupIds": [1],
+        "ParkingType": "Attached Garage",
+        "PriceUnformattedValue": "1299000"
+      },
+      "Business": {},
+      "Land": {
+        "SizeTotal": "50 x 132.88 FT ; 132.88 Ft X 120.19 Ft X 178.41 Ft X 10.0"
+      },
+      "AlternateURL": {
+        "VideoLink": "https://unbranded.youriguide.com/d0pcg_379_lee_cir_waterloo_on/"
+      },
+      "PostalCode": "N2K2L8",
+      "RelativeDetailsURL": "/real-estate/24738135/379-lee-circ-waterloo",
+      "StatusId": "1",
+      "PhotoChangeDateUTC": "2022-08-04 9:57:47 PM",
+      "HasNewImageUpdate": true,
+      "Distance": "",
+      "RelativeURLEn": "/real-estate/24738135/379-lee-circ-waterloo",
+      "RelativeURLFr": "/immobilier/24738135/379-lee-circ-waterloo",
+      "Media": [
+        {
+          "MediaCategoryId": "2",
+          "MediaCategoryURL": "https://unbranded.youriguide.com/d0pcg_379_lee_cir_waterloo_on/",
+          "Description": "VideoTourWebsite",
+          "Order": 5
+        },
+        {
+          "MediaCategoryId": "8",
+          "MediaCategoryURL": "https://unbranded.youriguide.com/d0pcg_379_lee_cir_waterloo_on//doc/floorplan_metric_en_u.pdf",
+          "Description": "FloorPlan"
+        },
+        {
+          "MediaCategoryId": "8",
+          "MediaCategoryURL": "https://unbranded.youriguide.com/d0pcg_379_lee_cir_waterloo_on//doc/floorplan_imperial_en_u.pdf",
+          "Description": "FloorPlan"
+        }
+      ],
+      "InsertedDateUTC": "637952459166770000",
+      "TimeOnRealtor": "6 hours ago"
+    },
+    {
+      "Id": "24738121",
+      "MlsNumber": "X5720895",
+      "PublicRemarks": "Located In Desirable Heritage Park Area, Offering A Spacious Floor Plan. Main Floor Offers Tile Flooring For Kitchen, Hall & Powder Room And Living + Dining Room Finished With Laminate. Large, Bright Living Room With Light Coming From Window/Backyard Sliding Doors. Upper Level Is All Hardwood Flooring Except The Bathroom, Massive Primary With 2 Large Closets+2 Large Windows. Other 2 Bedrooms Are Great Size + Include Closets. Lower Level Partially Finished With Ample Storage Space. Outside Your Private Fully Enclosed Fenced Backyard & Deck Is Perfect For Entertaining. Backs Onto Open Space/ No Immediate Rear Neighbors. Low Condo Fees Include 1 Surface Parking Space Right Outside The Front Door. Amazing Location - Close To Grand River Trails, Easy Highway Access, Close To Shopping, School + More. Book Your Showing Today!**** EXTRAS **** Inclusions: Dryer, Freezer, Refrigerator, Stove, Washer. All Appliances Are Sold \"\"As Is.\"\" Status Certificate Ordered. Storm Door/Screens Not Included In Condo Fees. Measurements Taken At Widest Points (30459016)",
+      "Building": {
+        "BathroomTotal": "2",
+        "Bedrooms": "3",
+        "StoriesTotal": "2",
+        "Type": "Row / Townhouse"
+      },
+      "Individual": [
+        {
+          "IndividualID": 2104045,
+          "Name": "CINDY CODY",
+          "Organization": {
+            "OrganizationID": 289003,
+            "Name": "RE/MAX TWIN CITY GRAND LIVING REALTY",
+            "Address": {
+              "AddressText": "901 VICTORIA ST N UNIT CC|KITCHENER, Ontario N2B3C3",
+              "PermitShowAddress": true,
+              "DisseminationArea": null
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "746-5136",
+                "AreaCode": "519",
+                "PhoneTypeId": "1"
+              }
+            ],
+            "Emails": [{ "ContactId": "482127135" }],
+            "Websites": [
+              { "Website": "HTTP://www.codygroup.ca", "WebsiteTypeId": "1" }
+            ],
+            "OrganizationType": "Firm",
+            "Designation": "Brokerage",
+            "HasEmail": true,
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/289003/remax-twin-city-grand-living-realty-901-victoria-st-n-unit-cc-kitchener-ontario-n2b3c3",
+            "PhotoLastupdate": "2022-08-04 5:38:34 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "746-5136",
+              "AreaCode": "519",
+              "PhoneTypeId": "1"
+            }
+          ],
+          "Emails": [{ "ContactId": "459315056" }],
+          "Position": "Broker of Record",
+          "PermitFreetextEmail": true,
+          "FirstName": "CINDY",
+          "LastName": "CODY",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/2104045/cindy-cody-901-victoria-st-n-unit-cc-kitchener-ontario-n2b3c3",
+          "RankMyAgentKey": "",
+          "RealSatisfiedKey": ""
+        }
+      ],
+      "Property": {
+        "Price": "$395,000",
+        "Type": "Single Family",
+        "Address": {
+          "AddressText": "#56B -56 MONTCALM DR|Kitchener, Ontario N2B2R1",
+          "Longitude": "-80.4416964",
+          "Latitude": "43.4584041",
+          "PermitShowAddress": true,
+          "DisseminationArea": null
+        },
+        "Photo": [
+          {
+            "SequenceId": "1",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS637952315146530000/reb86/highres/5/x5720895_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS637952315146530000/reb86/medres/5/x5720895_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS637952315146530000/reb86/lowres/5/x5720895_1.jpg",
+            "LastUpdated": "2022-08-04 5:38:34 PM"
+          }
+        ],
+        "TypeId": "300",
+        "OwnershipType": "Condominium/Strata",
+        "ConvertedPrice": "$395,000 ",
+        "OwnershipTypeGroupIds": [2],
+        "PriceUnformattedValue": "395000"
+      },
+      "Business": {},
+      "Land": {},
+      "PostalCode": "N2B2R1",
+      "RelativeDetailsURL": "/real-estate/24738121/56b-56-montcalm-dr-kitchener",
+      "StatusId": "1",
+      "PhotoChangeDateUTC": "2022-08-04 9:38:34 PM",
+      "HasNewImageUpdate": true,
+      "Distance": "",
+      "RelativeURLEn": "/real-estate/24738121/56b-56-montcalm-dr-kitchener",
+      "RelativeURLFr": "/immobilier/24738121/56b-56-montcalm-dr-kitchener",
+      "Media": [],
+      "InsertedDateUTC": "637952459146470000",
+      "TimeOnRealtor": "6 hours ago"
+    },
+    {
+      "Id": "24738118",
+      "MlsNumber": "X5720868",
+      "PublicRemarks": "Welcome To 10 Grenville Ave Located On A Quiet Street And Situated On A Deep 120 Ft Lot. This Great Bungalow Home Is Perfect For First Time Buyers Or Empty Nesters. The Main Floor Features A Bright Front Living Room, A 4 Pc Bathroom, 3 Large Bedrooms And A Kitchen With Update Cabinetry And Stone Tile Backsplash. Great Location Close To Everything You Need And More! Sold As Is. (30458986)",
+      "Building": {
+        "BathroomTotal": "1",
+        "Bedrooms": "2",
+        "StoriesTotal": "1",
+        "Type": "House"
+      },
+      "Individual": [
+        {
+          "IndividualID": 2074682,
+          "Name": "CAROLINE OHI",
+          "Organization": {
+            "OrganizationID": 285286,
+            "Name": "SHAW REALTY GROUP INC.",
+            "Address": {
+              "PermitShowAddress": false,
+              "DisseminationArea": null
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "952-2802",
+                "AreaCode": "855",
+                "PhoneTypeId": "1"
+              }
+            ],
+            "Websites": [
+              {
+                "Website": "HTTP://www.shawrealtygroup.com",
+                "WebsiteTypeId": "1"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "Designation": "Brokerage",
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/285286/shaw-realty-group-inc-135-george-st-n-unit-201b-cambridge-ontario-n1s5c3",
+            "PhotoLastupdate": "2022-08-04 5:38:34 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "916-5308",
+              "AreaCode": "226",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Toll Free",
+              "PhoneNumber": "764-8138",
+              "AreaCode": "800",
+              "PhoneTypeId": "5"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.ShawRealtyGroup.com",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "Emails": [{ "ContactId": "494756478" }],
+          "Photo": "https://cdn.realtor.ca/individual/TS637850804400000000/lowres/1349913.jpg",
+          "Position": "Broker of Record",
+          "PermitFreetextEmail": true,
+          "FirstName": "CAROLINE",
+          "LastName": "OHI",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/2074682/caroline-ohi",
+          "AgentPhotoLastUpdated": "2022-04-09 05:54:00",
+          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS637850804400000000/highres/1349913.jpg",
+          "RankMyAgentKey": "",
+          "RealSatisfiedKey": ""
+        }
+      ],
+      "Property": {
+        "Price": "$399,000",
+        "Type": "Single Family",
+        "Address": {
+          "AddressText": "10 GRENVILLE AVE|Kitchener, Ontario N2G3S4",
+          "Longitude": "-80.4786893",
+          "Latitude": "43.4370328",
+          "PermitShowAddress": true,
+          "DisseminationArea": null
+        },
+        "Photo": [
+          {
+            "SequenceId": "1",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS637952315141530000/reb86/highres/8/x5720868_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS637952315141530000/reb86/medres/8/x5720868_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS637952315141530000/reb86/lowres/8/x5720868_1.jpg",
+            "LastUpdated": "2022-08-04 5:38:34 PM"
+          }
+        ],
+        "TypeId": "300",
+        "OwnershipType": "Freehold",
+        "ConvertedPrice": "$399,000 ",
+        "OwnershipTypeGroupIds": [1],
+        "PriceUnformattedValue": "399000"
+      },
+      "Business": {},
+      "Land": { "SizeTotal": "39 x 120 FT" },
+      "AlternateURL": {
+        "VideoLink": "https://unbranded.youriguide.com/10_grenville_ave_kitchener_on/"
+      },
+      "PostalCode": "N2G3S4",
+      "RelativeDetailsURL": "/real-estate/24738118/10-grenville-ave-kitchener",
+      "StatusId": "1",
+      "PhotoChangeDateUTC": "2022-08-04 9:38:34 PM",
+      "HasNewImageUpdate": true,
+      "Distance": "",
+      "RelativeURLEn": "/real-estate/24738118/10-grenville-ave-kitchener",
+      "RelativeURLFr": "/immobilier/24738118/10-grenville-ave-kitchener",
+      "Media": [
+        {
+          "MediaCategoryId": "2",
+          "MediaCategoryURL": "https://unbranded.youriguide.com/10_grenville_ave_kitchener_on/",
+          "Description": "VideoTourWebsite",
+          "Order": 5
+        },
+        {
+          "MediaCategoryId": "8",
+          "MediaCategoryURL": "https://unbranded.youriguide.com/10_grenville_ave_kitchener_on//doc/floorplan_metric_en_u.pdf",
+          "Description": "FloorPlan"
+        },
+        {
+          "MediaCategoryId": "8",
+          "MediaCategoryURL": "https://unbranded.youriguide.com/10_grenville_ave_kitchener_on//doc/floorplan_imperial_en_u.pdf",
+          "Description": "FloorPlan"
+        }
+      ],
+      "InsertedDateUTC": "637952459141470000",
+      "TimeOnRealtor": "6 hours ago"
+    },
+    {
+      "Id": "24738120",
+      "MlsNumber": "X5720892",
+      "PublicRemarks": "** Open House Sunday, August 7. 2Pm-4Pm***Welcome To 49 Halliwell:This 3 Bedroom Sidesplit With Single Car Garage. Such A Beautiful Single Family Home Situated On A 68 X 110. Lot. Spacious, Bright Front Living Room With Large Window. Separate Dining Room Perfect For Family Gatherings! The Primary Bedroom Has An Ensuite! Main Floor Walk-Out From Family Room To A Great Size Fully Fenced Yard & A Shed. Finished Basement With A Wood Burning Fireplace Plus Ample Storage. Updates Include Furnace And A/C 2013, Roof 2009, Siding Replaced 2009, Strassburger Windows 2000. Single Car Garage Has Entrance To The Home. Concrete Driveway And Concrete Pad In The Backyard. The Heritage Park Location Is Close To All Amenities, Schools And Quick Access To All Major Highways. (30459012)",
+      "Building": {
+        "BathroomTotal": "2",
+        "Bedrooms": "3",
+        "StoriesTotal": "",
+        "Type": "House"
+      },
+      "Individual": [
+        {
+          "IndividualID": 2171529,
+          "Name": "CHRISTINE JUST",
+          "Organization": {
+            "OrganizationID": 290667,
+            "Name": "PEAK REALTY LTD.",
+            "Address": {
+              "AddressText": "74 STANLEY STREET|AYR, Ontario N0B1E0",
+              "PermitShowAddress": true,
+              "DisseminationArea": null
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "747-0231",
+                "AreaCode": "519",
+                "PhoneTypeId": "1"
+              },
+              {
+                "PhoneType": "Fax",
+                "PhoneNumber": "747-2958",
+                "AreaCode": "519",
+                "PhoneTypeId": "4"
+              }
+            ],
+            "Emails": [{ "ContactId": "470849478" }],
+            "Websites": [
+              {
+                "Website": "HTTP://www.peakrealtyltd.com",
+                "WebsiteTypeId": "1"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "Designation": "Brokerage",
+            "HasEmail": true,
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/290667/peak-realty-ltd-74-stanley-street-ayr-ontario-n0b1e0",
+            "PhotoLastupdate": "2022-08-04 5:38:34 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "747-0231",
+              "AreaCode": "519",
+              "PhoneTypeId": "1"
+            }
+          ],
+          "Emails": [{ "ContactId": "498141708" }],
+          "Position": "Salesperson",
+          "PermitFreetextEmail": true,
+          "FirstName": "CHRISTINE",
+          "LastName": "JUST",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/2171529/christine-just-74-stanley-street-ayr-ontario-n0b1e0",
+          "RankMyAgentKey": "",
+          "RealSatisfiedKey": ""
+        }
+      ],
+      "Property": {
+        "Price": "$699,900",
+        "Type": "Single Family",
+        "Address": {
+          "AddressText": "49 HALLIWELL DR|Kitchener, Ontario N2B2M6",
+          "Longitude": "-80.4505006",
+          "Latitude": "43.455293",
+          "PermitShowAddress": true,
+          "DisseminationArea": null
+        },
+        "Photo": [
+          {
+            "SequenceId": "1",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS637952315144400000/reb86/highres/2/x5720892_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS637952315144400000/reb86/medres/2/x5720892_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS637952315144400000/reb86/lowres/2/x5720892_1.jpg",
+            "LastUpdated": "2022-08-04 5:38:34 PM"
+          }
+        ],
+        "Parking": [{ "Name": "Attached Garage" }],
+        "ParkingSpaceTotal": "3",
+        "TypeId": "300",
+        "OwnershipType": "Freehold",
+        "AmmenitiesNearBy": "Hospital, Park, Place of Worship, Public Transit",
+        "ConvertedPrice": "$699,900 ",
+        "OwnershipTypeGroupIds": [1],
+        "ParkingType": "Attached Garage",
+        "PriceUnformattedValue": "699900"
+      },
+      "Business": {},
+      "Land": { "SizeTotal": "68.11 x 110.18 Acre" },
+      "AlternateURL": {
+        "VideoLink": "https://youriguide.com/49_halliwell_dr_kitchener_on/"
+      },
+      "PostalCode": "N2B2M6",
+      "RelativeDetailsURL": "/real-estate/24738120/49-halliwell-dr-kitchener",
+      "StatusId": "1",
+      "PhotoChangeDateUTC": "2022-08-04 9:38:34 PM",
+      "HasNewImageUpdate": true,
+      "Distance": "",
+      "RelativeURLEn": "/real-estate/24738120/49-halliwell-dr-kitchener",
+      "RelativeURLFr": "/immobilier/24738120/49-halliwell-dr-kitchener",
+      "Media": [
+        {
+          "MediaCategoryId": "2",
+          "MediaCategoryURL": "https://youriguide.com/49_halliwell_dr_kitchener_on/",
+          "Description": "VideoTourWebsite",
+          "Order": 5
+        },
+        {
+          "MediaCategoryId": "8",
+          "MediaCategoryURL": "https://youriguide.com/49_halliwell_dr_kitchener_on//doc/floorplan_metric_en_u.pdf",
+          "Description": "FloorPlan"
+        },
+        {
+          "MediaCategoryId": "8",
+          "MediaCategoryURL": "https://youriguide.com/49_halliwell_dr_kitchener_on//doc/floorplan_imperial_en_u.pdf",
+          "Description": "FloorPlan"
+        }
+      ],
+      "InsertedDateUTC": "637952459144300000",
+      "TimeOnRealtor": "6 hours ago"
+    },
+    {
+      "Id": "24737908",
+      "MlsNumber": "40305499",
+      "PublicRemarks": "This one-bedroom suite at Sage 2 represents one of the original templates for upscale student/young professional living in Uptown Waterloos University District! Contemporary style, sleek finishes, great urban views and a supremely walkable location are all hallmarks of a desirable off-campus lifestyle, and youll find all of these at 318 Spruce. Ideal for parent-investors or as a totally hands-off investment, with professional management services available via Sage Living (whose offices are directly in-building). Residents can enjoy in-suite perks such as private balconies, granite countertops and laundry, as well as building amenities like the fitness centre and lounge. Less than 10 minutes on foot from WLU, and only 20 minutes from UW. This unit comes with it's own private parking spot and will be vacant for the upcoming 20222 school year!!! Contact today for more details! (65043407)",
+      "Building": {
+        "BathroomTotal": "1",
+        "Bedrooms": "1 + 0",
+        "SizeInterior": "512.0000",
+        "StoriesTotal": "1",
+        "Type": "Apartment",
+        "Ammenities": "Exercise Centre"
+      },
+      "Individual": [
+        {
+          "IndividualID": 2099327,
+          "Name": "Debbie Tsintaris",
+          "Organization": {
+            "OrganizationID": 283397,
+            "Name": "Chestnut Park Realty Southwestern Ontario Ltd., Brokerage",
+            "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637952290260000000/lowres/1328541.jpg",
+            "Address": {
+              "AddressText": "50 - 75 King Street South|Waterloo, Ontario N2J1P2",
+              "PermitShowAddress": true,
+              "DisseminationArea": null
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "804-7200",
+                "AreaCode": "519",
+                "PhoneTypeId": "1"
+              },
+              {
+                "PhoneType": "Fax",
+                "PhoneNumber": "885-1251",
+                "AreaCode": "519",
+                "PhoneTypeId": "4"
+              }
+            ],
+            "Emails": [{ "ContactId": "463978409" }],
+            "Websites": [
+              {
+                "Website": "http://www.chestnutparkwest.com",
+                "WebsiteTypeId": "1"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "HasEmail": true,
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/283397/chestnut-park-realty-southwestern-ontario-ltd-brokerage-50-75-king-street-south-waterloo-ontario-n2j1p2",
+            "PhotoLastupdate": "2022-08-04 4:57:06 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "498-5808",
+              "AreaCode": "519",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "885-1251",
+              "AreaCode": "519",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [{ "ContactId": "481331140" }],
+          "Photo": "https://cdn.realtor.ca/individual/TS637400341800000000/lowres/1369514.jpg",
+          "Position": "Salesperson",
+          "PermitFreetextEmail": true,
+          "FirstName": "Debbie",
+          "LastName": "Tsintaris",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/2099327/debbie-tsintaris-50---75-king-street-south-waterloo-ontario-n2j1p2",
+          "AgentPhotoLastUpdated": "2020-11-03 21:03:00",
+          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS637400341800000000/highres/1369514.jpg",
+          "RankMyAgentKey": "",
+          "RealSatisfiedKey": ""
+        },
+        {
+          "IndividualID": 1688209,
+          "Name": "LEE S. QUAILE",
+          "Organization": {
+            "OrganizationID": 283397,
+            "Name": "Chestnut Park Realty Southwestern Ontario Ltd., Brokerage",
+            "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637952290260000000/lowres/1328541.jpg",
+            "Address": {
+              "AddressText": "50 - 75 King Street South|Waterloo, Ontario N2J1P2",
+              "PermitShowAddress": true,
+              "DisseminationArea": null
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "804-7200",
+                "AreaCode": "519",
+                "PhoneTypeId": "1"
+              },
+              {
+                "PhoneType": "Fax",
+                "PhoneNumber": "885-1251",
+                "AreaCode": "519",
+                "PhoneTypeId": "4"
+              }
+            ],
+            "Emails": [{ "ContactId": "463978409" }],
+            "Websites": [
+              {
+                "Website": "http://www.chestnutparkwest.com",
+                "WebsiteTypeId": "1"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "HasEmail": true,
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/283397/chestnut-park-realty-southwestern-ontario-ltd-brokerage-50-75-king-street-south-waterloo-ontario-n2j1p2",
+            "PhotoLastupdate": "2022-08-04 4:57:06 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "804-7200",
+              "AreaCode": "519",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "885-1251",
+              "AreaCode": "519",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.chestnutparkwest.com",
+              "WebsiteTypeId": "1"
+            },
+            {
+              "Website": "http://www.facebook.com/lee.quaile",
+              "WebsiteTypeId": "2"
+            },
+            {
+              "Website": "http://www.facebook.com/lee.quaile",
+              "WebsiteTypeId": "3"
+            },
+            {
+              "Website": "http://twitter.com/InvestingInKW",
+              "WebsiteTypeId": "4"
+            }
+          ],
+          "Emails": [{ "ContactId": "493364274" }],
+          "Photo": "https://cdn.realtor.ca/individual/TS636609568800000000/lowres/1173922.jpg",
+          "Position": "Broker of Record",
+          "PermitFreetextEmail": true,
+          "FirstName": "LEE",
+          "LastName": "QUAILE",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/1688209/lee-quaile-50---75-king-street-south-waterloo-ontario-n2j1p2",
+          "AgentPhotoLastUpdated": "2018-05-03 15:08:00",
+          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636609568800000000/highres/1173922.jpg",
+          "RankMyAgentKey": "",
+          "RealSatisfiedKey": ""
+        }
+      ],
+      "Property": {
+        "Price": "$489,900",
+        "Type": "Single Family",
+        "Address": {
+          "AddressText": "318 SPRUCE Street Unit# 313|Waterloo, Ontario N2L3M6",
+          "Longitude": "-80.52613277",
+          "Latitude": "43.47869605",
+          "PermitShowAddress": true,
+          "DisseminationArea": null
+        },
+        "Photo": [
+          {
+            "SequenceId": "1",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS637952290262370000/reb16/highres/9/40305499_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS637952290262370000/reb16/medres/9/40305499_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS637952290262370000/reb16/lowres/9/40305499_1.jpg",
+            "LastUpdated": "2022-08-04 4:57:06 PM"
+          }
+        ],
+        "Parking": [{ "Name": "Covered" }],
+        "ParkingSpaceTotal": "1",
+        "TypeId": "300",
+        "OwnershipType": "Condominium",
+        "AmmenitiesNearBy": "Place of Worship, Public Transit, Schools",
+        "ConvertedPrice": "$489,900 ",
+        "OwnershipTypeGroupIds": [2],
+        "ParkingType": "Covered",
+        "PriceUnformattedValue": "489900"
+      },
+      "Business": {},
+      "Land": {},
+      "AlternateURL": {
+        "VideoLink": "https://my.matterport.com/show/?m=8byBKDVT4U5"
+      },
+      "PostalCode": "N2L3M6",
+      "RelativeDetailsURL": "/real-estate/24737908/318-spruce-street-unit-313-waterloo",
+      "StatusId": "1",
+      "PhotoChangeDateUTC": "2022-08-04 8:57:06 PM",
+      "HasNewImageUpdate": true,
+      "Distance": "",
+      "RelativeURLEn": "/real-estate/24737908/318-spruce-street-unit-313-waterloo",
+      "RelativeURLFr": "/immobilier/24737908/318-spruce-street-unit-313-waterloo",
+      "Media": [
+        {
+          "MediaCategoryId": "2",
+          "MediaCategoryURL": "https://my.matterport.com/show/?m=8byBKDVT4U5",
+          "Description": "VideoTourWebsite",
+          "Order": 5
+        }
+      ],
+      "InsertedDateUTC": "637952434262300000",
+      "TimeOnRealtor": "7 hours ago"
+    },
+    {
+      "Id": "24737794",
+      "MlsNumber": "40300557",
+      "PublicRemarks": "Welcome home! Gorgeous corner unit boasting 2 owned parking spots and a large terrace balcony with modern interior in a well maintained newer building! Close to Belmont Village, Catalyst, Downtown Kitchener and Uptown Waterloo is now available. This bright 2 bedroom 2 bath corner unit, located on the tenth floor, is 1130 square feet with 9 foot ceilings and a 180 square foot terrace with wonderful city views. The condo is carpet free with modern finishes and a great layout for entertaining. It includes new stainless steel appliances, custom window coverings, in suite laundry, new light fixtures and  neutral modern décor throughout. It comes with one underground parking spot and one surface spot. The building amenities include a fitness room, billiards/lounge, party room, theatre, guest suite, outdoor patio, BBQ area and bike storage. This is one of the nicest units at one of best locations in town! (65038351)",
+      "Building": {
+        "BathroomTotal": "2",
+        "Bedrooms": "2 + 0",
+        "SizeInterior": "1134.0000",
+        "StoriesTotal": "1",
+        "Type": "Apartment",
+        "Ammenities": "Exercise Centre, Guest Suite, Party Room"
+      },
+      "Individual": [
+        {
+          "IndividualID": 1600676,
+          "Name": "JELENA AFFELDT",
+          "Organization": {
+            "OrganizationID": 76789,
+            "Name": "RE/MAX TWIN CITY REALTY INC.",
+            "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637952272530000000/lowres/1004357.jpg",
+            "Address": {
+              "AddressText": "83 ERB ST.W.|WATERLOO, Ontario N2L6C2",
+              "PermitShowAddress": true,
+              "DisseminationArea": null
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "885-0200",
+                "AreaCode": "519",
+                "PhoneTypeId": "1"
+              },
+              {
+                "PhoneType": "Fax",
+                "PhoneNumber": "885-4914",
+                "AreaCode": "519",
+                "PhoneTypeId": "4"
+              }
+            ],
+            "Emails": [{ "ContactId": "498157936" }],
+            "Websites": [
+              { "Website": "https://remaxtwincity.com", "WebsiteTypeId": "1" }
+            ],
+            "OrganizationType": "Firm",
+            "HasEmail": true,
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/76789/remax-twin-city-realty-inc-83-erb-stw-waterloo-ontario-n2l6c2",
+            "PhotoLastupdate": "2022-08-04 4:27:33 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "781-7755",
+              "AreaCode": "519",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "885-4914",
+              "AreaCode": "519",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [{ "ContactId": "490675478" }],
+          "Photo": "https://cdn.realtor.ca/individual/TS637583106600000000/lowres/1145417.jpg",
+          "Position": "Broker",
+          "PermitFreetextEmail": true,
+          "FirstName": "JELENA",
+          "LastName": "AFFELDT",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/1600676/jelena-affeldt-83-erb-stw-waterloo-ontario-n2l6c2",
+          "AgentPhotoLastUpdated": "2021-06-03 09:51:00",
+          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS637583106600000000/highres/1145417.jpg",
+          "RankMyAgentKey": "",
+          "RealSatisfiedKey": ""
+        },
+        {
+          "IndividualID": 1601944,
+          "Name": "KELLY ROY AFFELDT",
+          "Organization": {
+            "OrganizationID": 76789,
+            "Name": "RE/MAX TWIN CITY REALTY INC.",
+            "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637952272530000000/lowres/1004357.jpg",
+            "Address": {
+              "AddressText": "83 ERB ST.W.|WATERLOO, Ontario N2L6C2",
+              "PermitShowAddress": true,
+              "DisseminationArea": null
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "885-0200",
+                "AreaCode": "519",
+                "PhoneTypeId": "1"
+              },
+              {
+                "PhoneType": "Fax",
+                "PhoneNumber": "885-4914",
+                "AreaCode": "519",
+                "PhoneTypeId": "4"
+              }
+            ],
+            "Emails": [{ "ContactId": "498157936" }],
+            "Websites": [
+              { "Website": "https://remaxtwincity.com", "WebsiteTypeId": "1" }
+            ],
+            "OrganizationType": "Firm",
+            "HasEmail": true,
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/76789/remax-twin-city-realty-inc-83-erb-stw-waterloo-ontario-n2l6c2",
+            "PhotoLastupdate": "2022-08-04 4:27:33 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "885-0200",
+              "AreaCode": "519",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "885-4914",
+              "AreaCode": "519",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [{ "ContactId": "464891208" }],
+          "Photo": "https://cdn.realtor.ca/individual/TS637583106600000000/lowres/1158668.jpg",
+          "Position": "Salesperson",
+          "PermitFreetextEmail": true,
+          "FirstName": "KELLY",
+          "LastName": "AFFELDT",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/1601944/kelly-affeldt-83-erb-stw-waterloo-ontario-n2l6c2",
+          "AgentPhotoLastUpdated": "2021-06-03 09:51:00",
+          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS637583106600000000/highres/1158668.jpg",
+          "RankMyAgentKey": "",
+          "RealSatisfiedKey": ""
+        }
+      ],
+      "Property": {
+        "Price": "$639,900",
+        "Type": "Single Family",
+        "Address": {
+          "AddressText": "539 BELMONT Avenue W Unit# 1009|Kitchener, Ontario N2M0A3",
+          "Longitude": "-80.516",
+          "Latitude": "43.449",
+          "PermitShowAddress": true,
+          "DisseminationArea": null
+        },
+        "Photo": [
+          {
+            "SequenceId": "1",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS637952272538430000/reb16/highres/7/40300557_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS637952272538430000/reb16/medres/7/40300557_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS637952272538430000/reb16/lowres/7/40300557_1.jpg",
+            "LastUpdated": "2022-08-04 4:27:33 PM"
+          }
+        ],
+        "Parking": [{ "Name": "Underground" }],
+        "ParkingSpaceTotal": "2",
+        "TypeId": "300",
+        "OwnershipType": "Condominium",
+        "AmmenitiesNearBy": "Golf Nearby, Hospital, Park, Public Transit, Schools, Shopping",
+        "ConvertedPrice": "$639,900 ",
+        "OwnershipTypeGroupIds": [2],
+        "ParkingType": "Underground",
+        "PriceUnformattedValue": "639900"
+      },
+      "Business": {},
+      "Land": { "SizeTotal": "under 1/2 acre" },
+      "AlternateURL": {
+        "VideoLink": "https://youriguide.com/1009_539_belmont_ave_w_kitchener_on/"
+      },
+      "PostalCode": "N2M0A3",
+      "RelativeDetailsURL": "/real-estate/24737794/539-belmont-avenue-w-unit-1009-kitchener",
+      "StatusId": "1",
+      "PhotoChangeDateUTC": "2022-08-04 8:27:33 PM",
+      "HasNewImageUpdate": true,
+      "Distance": "",
+      "RelativeURLEn": "/real-estate/24737794/539-belmont-avenue-w-unit-1009-kitchener",
+      "RelativeURLFr": "/immobilier/24737794/539-belmont-avenue-w-unit-1009-kitchener",
+      "Media": [
+        {
+          "MediaCategoryId": "2",
+          "MediaCategoryURL": "https://youriguide.com/1009_539_belmont_ave_w_kitchener_on/",
+          "Description": "VideoTourWebsite",
+          "Order": 5
+        },
+        {
+          "MediaCategoryId": "8",
+          "MediaCategoryURL": "https://youriguide.com/1009_539_belmont_ave_w_kitchener_on//doc/floorplan_metric_en_u.pdf",
+          "Description": "FloorPlan"
+        },
+        {
+          "MediaCategoryId": "8",
+          "MediaCategoryURL": "https://youriguide.com/1009_539_belmont_ave_w_kitchener_on//doc/floorplan_imperial_en_u.pdf",
+          "Description": "FloorPlan"
+        }
+      ],
+      "InsertedDateUTC": "637952416538370000",
+      "TimeOnRealtor": "7 hours ago"
+    },
+    {
+      "Id": "24737714",
+      "MlsNumber": "40305194",
+      "PublicRemarks": "Welcome to this well maintained 3 bedroom end unit townhome. It is located in a desirable neighborhood and close to bus station, shopping centre, schools and highway. This unit was freshly painted, laminate flooring throughout, stainless steel appliances, newer AC and furnace. Don't miss this opportunity to own a property in this community. (65042908)",
+      "Building": {
+        "BathroomTotal": "1",
+        "Bedrooms": "3 + 0",
+        "SizeInterior": "1194.0000",
+        "StoriesTotal": "3",
+        "Type": "Row / Townhouse"
+      },
+      "Individual": [
+        {
+          "IndividualID": 2010892,
+          "Name": "Chrissie Kuo",
+          "Organization": {
+            "OrganizationID": 292145,
+            "Name": "HomeArt Realty Services Inc.",
+            "Address": {
+              "AddressText": "2700 14TH Avenue, Unit 2|Markham, Ontario L3R0J1",
+              "PermitShowAddress": true,
+              "DisseminationArea": null
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "475-5111",
+                "AreaCode": "905",
+                "PhoneTypeId": "1"
+              },
+              {
+                "PhoneType": "Fax",
+                "PhoneNumber": "475-4777",
+                "AreaCode": "905",
+                "PhoneTypeId": "4"
+              }
+            ],
+            "Emails": [{ "ContactId": "485709327" }],
+            "Websites": [
+              {
+                "Website": "http://www.homeartrealty.com",
+                "WebsiteTypeId": "1"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "HasEmail": true,
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/292145/homeart-realty-services-inc-2700-14th-avenue-unit-2-markham-ontario-l3r0j1",
+            "PhotoLastupdate": "2022-08-04 8:15:32 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "722-8957",
+              "AreaCode": "519",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "475-4777",
+              "AreaCode": "905",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://chrissiekuo.myagent.site/",
+              "WebsiteTypeId": "1"
+            },
+            {
+              "Website": "http://www.facebook.com/Chrissie-Kuo-Real-Estate-Broker-106796454258063/",
+              "WebsiteTypeId": "2"
+            },
+            {
+              "Website": "http://www.linkedin.com/in/chrissie-kuo-7b9b3097/",
+              "WebsiteTypeId": "3"
+            },
+            {
+              "Website": "http://twitter.com/KuoChrissie",
+              "WebsiteTypeId": "4"
+            }
+          ],
+          "Emails": [{ "ContactId": "485432806" }],
+          "Photo": "https://cdn.realtor.ca/individual/TS636843877200000000/lowres/1292358.jpg",
+          "Position": "Broker",
+          "PermitFreetextEmail": true,
+          "FirstName": "Chrissie",
+          "LastName": "Kuo",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/2010892/chrissie-kuo-2700-14th-avenue-unit-2-markham-ontario-l3r0j1",
+          "AgentPhotoLastUpdated": "2019-01-29 19:42:00",
+          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636843877200000000/highres/1292358.jpg",
+          "RankMyAgentKey": "",
+          "RealSatisfiedKey": ""
+        }
+      ],
+      "Property": {
+        "Price": "$450,000",
+        "Type": "Single Family",
+        "Address": {
+          "AddressText": "279 BLUEVALE Street N Unit# 51|Waterloo, Ontario N2J4L8",
+          "Longitude": "-80.49938851",
+          "Latitude": "43.48055987",
+          "PermitShowAddress": true,
+          "DisseminationArea": null
+        },
+        "Photo": [
+          {
+            "SequenceId": "1",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS637952265218800000/reb16/highres/4/40305194_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS637952265218800000/reb16/medres/4/40305194_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS637952265218800000/reb16/lowres/4/40305194_1.jpg",
+            "LastUpdated": "2022-08-04 4:15:21 PM"
+          }
+        ],
+        "Parking": [{ "Name": "Detached Garage" }],
+        "ParkingSpaceTotal": "2",
+        "TypeId": "300",
+        "OwnershipType": "Condominium",
+        "AmmenitiesNearBy": "Park, Schools, Shopping",
+        "ConvertedPrice": "$450,000 ",
+        "OwnershipTypeGroupIds": [2],
+        "ParkingType": "Detached Garage",
+        "PriceUnformattedValue": "450000"
+      },
+      "OpenHouse": [
+        {
+          "StartTime": "Aug 06/22 - 1:00 PM To 3:00 PM",
+          "StartDateTime": "06/08/2022 1:00:00 PM",
+          "EndDateTime": "06/08/2022 3:00:00 PM",
+          "FormattedDateTime": "Aug 06/22 - 1:00 PM To 3:00 PM",
+          "Comments": "All visitors should wear masks, sanitize hands and sign in before entering the house.",
+          "EventTypeID": "1"
+        }
+      ],
+      "Business": {},
+      "Land": { "SizeTotal": "under 1/2 acre", "SizeFrontage": "1 ft" },
+      "AlternateURL": {
+        "VideoLink": "https://drive.google.com/file/d/1X7KzrzwHBazlsmjX9cRDPOwBZjutFMyX/view?usp=sharing"
+      },
+      "PostalCode": "N2J4L8",
+      "RelativeDetailsURL": "/real-estate/24737714/279-bluevale-street-n-unit-51-waterloo",
+      "StatusId": "1",
+      "OpenHouseInsertDateUTC": "2022-08-04 8:21:15 PM",
+      "HasOpenHouseUpdate": true,
+      "PhotoChangeDateUTC": "2022-08-04 8:15:21 PM",
+      "HasNewImageUpdate": true,
+      "Distance": "",
+      "RelativeURLEn": "/real-estate/24737714/279-bluevale-street-n-unit-51-waterloo",
+      "RelativeURLFr": "/immobilier/24737714/279-bluevale-street-n-unit-51-waterloo",
+      "ListingTimeZone": "Eastern Standard Time",
+      "ListingBoundary": "America/Toronto",
+      "ListingGMT": "-05:00:00",
+      "Media": [
+        {
+          "MediaCategoryId": "2",
+          "MediaCategoryURL": "https://drive.google.com/file/d/1X7KzrzwHBazlsmjX9cRDPOwBZjutFMyX/view?usp=sharing",
+          "Description": "VideoTourWebsite",
+          "Order": 5
+        }
+      ],
+      "InsertedDateUTC": "637952409218700000",
+      "TimeOnRealtor": "7 hours ago"
+    }
+  ]
+}
